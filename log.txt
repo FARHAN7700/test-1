@@ -8,3 +8,8 @@
 📝 Summary: The change added an `<h1>` heading element with the text "Your " to the HTML body.  The original only contained a paragraph.
 
 
+
+🗂 File: index.html
+📝 Summary: The only change is in the `<h1>` tag.  The old code displayed "Your", while the new code displays "Your Laptop is Lagging".
+
+
